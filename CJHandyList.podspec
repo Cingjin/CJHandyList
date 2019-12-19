@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
  
 
   s.name         = "CJHandyList"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "让 UITableView / UICollectionView 更加简单优雅，轻易实现列表动态化、模块化。"
   s.description  = <<-DESC
               让 UITableView / UICollectionView 更加简单优雅，轻易实现列表动态化、模块化。
